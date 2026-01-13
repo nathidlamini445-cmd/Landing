@@ -14,7 +14,7 @@ export function Hero() {
           <i className="font-light text-slate-900">Built for visionares</i>
         </h1>
         <p className="font-mono text-sm sm:text-base text-slate-600 text-balance mt-8 max-w-[440px] mx-auto">
-          DreamScale is an entrepreneurship-focused SaaS platform designed to help entrepreneurs build and scale businesses, i provides step by step guidance, resource mapping, and education on business fundementals, empowering individuals to turn ideas into reality.
+          DreamScale is an entrepreneurship-focused SaaS platform designed to help entrepreneurs build and scale businesses, it provides step by step guidance, resource mapping, and education on business fundementals, empowering individuals to turn ideas into reality.
         </p>
       </div>
     </div>
