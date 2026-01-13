@@ -128,13 +128,13 @@ export function EcosystemSection() {
     {
       title: "Competitor Intelligence",
       description:
-        "The heartbeat of your business intelligence. Competitor Intelligence connects all your data streams, creating a unified pulse that flows through every aspect of your organization. Experience real-time insights that adapt and evolve with your business rhythm.",
+        "Turn competitive analysis into competitive advantage. Competitor Intelligence provides real-time market intelligence that helps you understand not just who your competitors are, but how they operate, where they're vulnerable, and what opportunities they're missing. Make smarter strategic decisions with AI-powered insights that evolve with your market.",
       icon: <DreamPulseIcon />,
     },
     {
       title: "VentureQuests",
       description:
-        "Your intelligent operating system for the future. VentureQuests orchestrates every process, automates complex workflows, and creates seamless experiences across all touchpoints. It's not just software—it's the foundation that powers your digital transformation.",
+        "Build the operating system your business needs to scale. VentureQuests orchestrates your entire workflow—from daily tasks to long-term goals, team collaboration to performance tracking. Automate repetitive processes, maintain momentum with gamification, and create seamless experiences that help your team achieve more together.",
       icon: <HypeOSIcon />,
     },
   ]
