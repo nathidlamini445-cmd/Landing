@@ -1,0 +1,31 @@
+{
+  "name": "DreamScale - Built for visionaries",
+  "short_name": "DreamScale",
+  "description": "Scale your business with AI-powered tools, personalized guidance, and actionable insights. All-in-one platform built for visionaries.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/Logo.png",
+      "sizes": "any",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
