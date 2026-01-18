@@ -15,7 +15,7 @@ export function Hero() {
             <i className="font-light text-slate-900" style={{ fontSize: 'clamp(1.5rem, 3vw, 2.5rem)' }}>Built for visionares</i>
           </h1>
           <p className="font-mono text-slate-600 text-balance mt-6 sm:mt-8 mx-auto" style={{ fontSize: 'clamp(0.875rem, 1.2vw, 1.125rem)', maxWidth: 'min(600px, 90vw)' }}>
-            DreamScale is an entrepreneurship-focused SaaS platform designed to help entrepreneurs build and scale businesses, i provides step by step guidance, resource mapping, and education on business fundementals, empowering individuals to turn ideas into reality.
+            DreamScale is an entrepreneurship-focused SaaS platform designed to help entrepreneurs build and scale businesses, it provides step by step guidance, resource mapping, and education on business fundementals, empowering individuals to turn ideas into reality.
           </p>
         </div>
       </div>
