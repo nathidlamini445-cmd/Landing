@@ -4,6 +4,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import { Header } from "@/components/header";
 import { ErrorHandler } from "@/components/error-handler";
+import { Analytics } from "@vercel/analytics/next";
 
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
@@ -70,6 +71,7 @@ export default function RootLayout({
         <ErrorHandler />
         <Header />
         {children}
+        <Analytics />
       </body>
     </html>
   );
